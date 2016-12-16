@@ -40,6 +40,7 @@
     "temp": "0.8.3"
   },
   "devDependencies": {
+    "glob": "^7.1.1",
     "shelljs": "0.7.3"
   }
 }
